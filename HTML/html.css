@@ -1,0 +1,17 @@
+body {
+    background-color: #E3F07B;
+}
+
+@font-face {
+    font-family: 'Adventure';
+    src: url(adventure.ttf);
+}
+
+@font-face {
+    font-family: 'Anek Malayalam';
+    src: url(AnekMalayalam-VariableFont_wdth\,wght.ttf);
+}
+
+#Html_page_welcome_text {
+    font-family: 'Anek Malayalam' , sans-serif;
+}
